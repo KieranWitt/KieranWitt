@@ -10,7 +10,7 @@ with this in mind I recently decided to learn to code and would do it by bringin
 - 👀 I’m interested in ... learning to code and writing about the experience. 
 - 🌱 I’m currently learning to... Code! I'm starting with Javascript and will work my way through other langauges and concepts over time. 
 - 💞️ I’m looking to collaborate on ... anything that solves a real world problem. 
-- 📫 You can reach me at Kieran_019@hotmail.com
+- 📫 You can reach me at Hello@kieranwitt.com
 
 <!---
 KieranWitt/KieranWitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
