@@ -5,7 +5,7 @@ I also like to think I'm an entrepreneur in the making having started a business
 <br></br>
 Over the years, and probably like millions of others around the world, I've accumulated a long list of ideas and resigned them to a dusty notebook 
 where they'll fester forever if I didn't do something about them. The ideas list has been growing but my skills in bringing those ideas to life haven't, 
-with this in mind I recently decided to learn to code and would do it by bringing some of my ideas to life and [documenting the journey on my blog](https://kieran-witt.ghost.io/).
+with this in mind I recently decided to learn to code and would do it by bringing some of my ideas to life and [documenting the journey on my blog](https://kieranwitt.com/).
 
 - 👀 I’m interested in ... learning to code and writing about the experience. 
 - 🌱 I’m currently learning to... Code! I'm starting with Javascript and will work my way through other langauges and concepts over time. 
